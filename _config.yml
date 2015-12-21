@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://yuanfang-fn.github.io
+title: myblog
+subtitle: nothing here
+author: Hello_m
 simple_search: https://www.google.com/search
 description:
 
@@ -70,8 +70,8 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
-twitter_tweet_button: true
+# twitter_user:
+# twitter_tweet_button: true
 
 # Google +1
 google_plus_one: false
@@ -91,11 +91,15 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name:hellom
+disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+
+weibo_user: xsxiang # 微博数字 ID 或域名 ID
+dribbble_user: 
+weibo_share: true # 是否开启微博分享按钮
